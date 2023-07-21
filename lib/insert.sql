@@ -12,7 +12,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -28,7 +28,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -44,7 +44,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -60,7 +60,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -76,7 +76,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -92,7 +92,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -108,7 +108,7 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
 
 INSERT INTO bears (
@@ -124,5 +124,5 @@ INSERT INTO bears (
         'M',
         'brown',
         'happy',
-        TRUE
+        1
     );
